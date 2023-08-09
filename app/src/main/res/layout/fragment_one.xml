@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    android:orientation="horizontal">
+
+
+
+    <TextView
+        android:id="@+id/content"
+        android:layout_width="160dp"
+        android:layout_height="match_parent"
+        android:layout_weight="10"
+        android:text="@string/list_item_one" />
+
+    <TextView
+        android:id="@+id/num_one"
+        android:layout_width="48dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="10"
+        android:text="0" />
+
+    <TextView
+        android:id="@+id/typeOfOne"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="10"
+        android:text="kg" />
+
+    <ImageButton
+        android:id="@+id/imgBought"
+        android:layout_width="20dp"
+        android:layout_height="match_parent"
+        android:layout_weight="10"
+        app:srcCompat="@drawable/unchecked" />
+
+</LinearLayout>

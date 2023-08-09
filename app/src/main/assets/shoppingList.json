@@ -1,0 +1,67 @@
+
+   [
+    {
+      "id": "1",
+      "title": "Home",
+      "importance": "LOW",
+      "subtask": [{
+        "id": "1",
+        "title": "banana",
+        "amount": "2",
+        "type": "pieces",
+        "bought": "no"
+      },
+       {
+        "id": "2",
+        "title": "meat",
+        "amount": "2",
+        "type": "kg",
+        "bought": "no"
+      },
+        {
+          "id": "3",
+          "title": "milk",
+          "amount": "2",
+          "type": "l",
+          "bought": "yes"
+        }
+      ]
+    },
+
+    {
+      "id": "2",
+      "title": "School",
+      "importance": "HIGH",
+      "subtask": [
+        {
+          "id": "1",
+          "title": "water",
+          "amount": "1",
+          "type": "l",
+          "bought": "no"
+        },
+        {
+          "id": "2",
+          "title": "apples",
+          "amount": "3",
+          "type": "pieces",
+          "bought": "no"
+        },
+        {
+          "id": "3",
+          "title": "cheese",
+          "amount": "0.1",
+          "type": "kg",
+          "bought": "yes"
+        }
+      ]
+    }
+
+
+
+
+
+
+
+
+  ]

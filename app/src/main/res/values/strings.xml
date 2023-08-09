@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_task_title">Zadanie</string>
+    <string name="no_desc_msg">Brak opisu</string>
+    <string name="list_item_one">List item</string>
+
+
+    <string-array name="type_one">
+        <item>pieces</item>
+        <item>g</item>
+        <item>kg</item>
+        <item>l</item>
+        <item>ml</item>
+    </string-array>
+</resources>
